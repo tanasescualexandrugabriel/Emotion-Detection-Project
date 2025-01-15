@@ -1,0 +1,2 @@
+# Command to import the emotion detection application
+from app.emotion_detection import emotion_predictor
