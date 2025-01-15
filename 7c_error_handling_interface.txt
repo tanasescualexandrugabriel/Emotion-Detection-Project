@@ -1,0 +1,1 @@
+Error handling validated: Missing input returns status 400.
