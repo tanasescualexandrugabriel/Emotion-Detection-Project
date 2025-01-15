@@ -1,0 +1,6 @@
+Project Root Folder Structure:
+- app/
+- tests/
+- docs/
+- setup.py
+- README.md
